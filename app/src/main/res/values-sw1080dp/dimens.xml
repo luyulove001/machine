@@ -1,0 +1,92 @@
+<resources>
+
+    <!--
+         Customize dimensions originally defined in res/values/dimens.xml (such as
+         screen margins) for sw1080dp devices (e.g. 10" tablets) in landscape here.
+    -->
+     <!-- FirstRegistActivity -->
+    <dimen name="textview1_size">30sp</dimen>
+    <dimen name="editinput_top">150dp</dimen>
+    <dimen name="linearlayout_top">120dp</dimen>
+    
+    <dimen name="activity_horizontal_margin">128dp</dimen>
+    
+    <dimen name="logo_width">50dp</dimen>
+    <dimen name="back_right">20dp</dimen>
+
+    <dimen name="time_num">140sp</dimen>
+    <dimen name="week_num">25sp</dimen>
+    <dimen name="week_parent_right">20sp</dimen>
+    <dimen name="week_parent_bottom">30sp</dimen>
+    
+    <dimen name="line_people">30sp</dimen>
+    <dimen name="line_people_num">72sp</dimen>
+    <dimen name="line_ticket">20sp</dimen> 
+    <dimen name="line_ticket_bottom">10dp</dimen>   
+    
+    <dimen name="text_size">30sp</dimen>
+    
+    <dimen name="scane_text">40sp</dimen>
+    <dimen name="scane_text2">26sp</dimen>
+    <dimen name="scane_text3">20sp</dimen>
+    <dimen name="scane_left">30sp</dimen>
+    <dimen name="scane_top">20sp</dimen>
+    
+    <dimen name="linear_buy_top">60dp</dimen>
+    <dimen name="scan_size">45dp</dimen>
+    <dimen name="scan_toleft">30dp</dimen>
+    <dimen name="getTicket_left">20dp</dimen>
+    <dimen name="scan_top">30dp</dimen>
+    <dimen name="scantext_size">35dp</dimen>
+    
+    <dimen name="peo_top">30dp</dimen>
+    <dimen name="peo_left">20dp</dimen>
+    <dimen name="peo_margin_top">25dp</dimen>
+    <dimen name="peo_margin_bot">30dp</dimen>
+     
+    <dimen name="down_width">120dp</dimen>
+    <dimen name="down_left">120dp</dimen>
+    <dimen name="down_top">10dp</dimen>
+    
+    <dimen name="line_scane_left">10sp</dimen>
+    <dimen name="line_scane_top">10sp</dimen>
+    
+    <dimen name="scane_marginright">130dp</dimen>
+    <dimen name="scane_marginleft">130dp</dimen>
+    
+    <dimen name="scane_pic_width">170dp</dimen>
+    <dimen name="scane_pic_height">170dp</dimen>
+    
+    <dimen name="iv_shopid_nonet_width">220dp</dimen>
+    <dimen name="iv_shopid_nonet_height">220dp</dimen>
+    
+    <dimen name="shopname_left">20dp</dimen>
+    <dimen name="shopname_top">15dp</dimen>
+    
+    <dimen name="margin_left">30sp</dimen>
+    <dimen name="margin_top">25sp</dimen>
+    
+    <!-- GIF图的宽度 -->
+    <dimen name="gifview">200dp</dimen>
+    
+    <!-- 侧边栏的高度和宽度 -->
+    <dimen name="frame_marginleft">-120dp</dimen>
+    <dimen name="frame_width">120dp</dimen>
+    <dimen name="frame_height">500dp</dimen>
+    <!-- 侧边栏按钮的高度和宽度 -->
+    <dimen name="frame_left_width">60dp</dimen>
+    <dimen name="frame_left_height">120dp</dimen>
+    
+    <dimen name="frame_chair1_img">40dp</dimen>
+    <dimen name="frame_chair1_text">30sp</dimen>
+    
+    <dimen name="arrow_width">20dp</dimen>
+    <dimen name="arrow_height">40dp</dimen>
+    
+    <!-- 投币提示字体大小 -->
+    <dimen name="send_ticket">20sp</dimen>
+    <dimen name="prompt_size">50sp</dimen>
+    
+    <dimen name="ticket_left">20sp</dimen>
+    
+</resources>

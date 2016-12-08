@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">快发购票机</string>
+	<string name="action_settings">setting</string>
+	
+	<!-- FirstRegistActivity -->
+	<string name="pls_putkey">请输入门店的密钥：</string>
+	<string name="determine">确定</string>
+	<string name="cancel">取消</string>
+	
+	<!-- MainActivity -->
+	<string name="qchouse">QCHOUSE</string>
+	<string name="company">浙江快发科技有限公司</string>
+    <string name="now_buynum">排队人数</string>
+    <string name="line">位</string>
+    <string name="now_linenum">当前排队号</string>
+    <string name="now_ticketid">当前票号</string>
+    <string name="buy_ticket">购票</string>
+    <string name="weixin_scan">微信扫码</string>
+    <string name="get_ticket">取票</string>
+    <string name="send_ticket">出票口</string>
+    <string name="warning">请勿用力拉扯票券</string>
+    <string name="put_money">塞钱口</string>
+    <string name="pls_10">请投入10元纸币</string>
+    
+</resources>

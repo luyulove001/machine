@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QC Machine</string>
+	<string name="action_settings">setting</string>
+	
+	<!-- FirstRegistActivity -->
+	<string name="pls_putkey">Please Enter The Key of the Store</string>
+	<string name="determine">Determine</string>
+	<string name="cancel">Cancel</string>
+	
+	<!-- MainActivity -->
+	<string name="qchouse">QCHOUSE</string>
+	<string name="company">ZheJiang QCHouse Company</string>
+    <string name="now_buynum">Now Buy Ticket Number</string>
+    <string name="line"></string>
+    <string name="now_linenum">The Current Line Number</string>
+    <string name="now_ticketid">Now TicketId</string>
+    <string name="buy_ticket">Buy Ticket</string>
+    <string name="weixin_scan">WeiXin Scan</string>
+    <string name="get_ticket">Get Ticket</string>
+    <string name="send_ticket">Put Ticket</string>
+    <string name="warning">Please do not pulling on tickets</string>
+    <string name="put_money">Send Money</string>
+    <string name="pls_10">Please put $10 notes</string>
+    
+</resources>
